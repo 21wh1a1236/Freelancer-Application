@@ -96,13 +96,17 @@ Client
 -Chat with freelancers to finalize project details
 
 
-![Screenshot 2024-06-29 131332](https://github.com/21wh1a1236/Freelancer-Application/assets/119932516/e7b45a71-470b-4324-af8d-8ed0db23c630)
-
-![Screenshot 2024-06-29 132610](https://github.com/21wh1a1236/Freelancer-Application/assets/119932516/c2f8b11f-8174-40a2-ba9d-be45b857619f)
 
 ![Screenshot 2024-06-29 132736](https://github.com/21wh1a1236/Freelancer-Application/assets/119932516/348d5ba3-2545-411a-b5d0-17d30742554b)
 
+
 ![Screenshot 2024-06-29 132747](https://github.com/21wh1a1236/Freelancer-Application/assets/119932516/63a914ca-00ca-4d21-a6df-7d9905d8edaa)
+
+
+![Screenshot 2024-06-29 131332](https://github.com/21wh1a1236/Freelancer-Application/assets/119932516/e7b45a71-470b-4324-af8d-8ed0db23c630)
+
+
+![Screenshot 2024-06-29 132610](https://github.com/21wh1a1236/Freelancer-Application/assets/119932516/c2f8b11f-8174-40a2-ba9d-be45b857619f)
 
 
 
