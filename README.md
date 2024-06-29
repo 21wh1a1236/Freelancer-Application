@@ -119,7 +119,7 @@ Team Members
 
 -M.Apoorva (21wh1a1212)
 
--M.Harshitha (21wh1a1216)
+-M.Harshitha Reddy (21wh1a1216)
 
 
 
