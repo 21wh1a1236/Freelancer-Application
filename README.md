@@ -70,13 +70,13 @@ Freelancer page appearance
 
 ![Screenshot 2024-06-29 123744](https://github.com/21wh1a1236/Freelancer-Application/assets/119932516/baa57a4d-824d-45c6-b310-3b6ab1167c71)
 
+![Screenshot 2024-06-29 131749](https://github.com/21wh1a1236/Freelancer-Application/assets/119932516/84efd8a3-e6ed-4e89-a3be-6e115a784173)
+
 ![Screenshot 2024-06-29 124035](https://github.com/21wh1a1236/Freelancer-Application/assets/119932516/254c0dee-85d8-44d0-853a-388ad6f9e170)
 
 ![Screenshot 2024-06-29 124041](https://github.com/21wh1a1236/Freelancer-Application/assets/119932516/df63f529-a368-415b-8b3c-ff3431d282ae)
 
 ![Screenshot 2024-06-29 131133](https://github.com/21wh1a1236/Freelancer-Application/assets/119932516/1a8a01ff-7116-46e5-93ba-0df545d6741e)
-
-![Screenshot 2024-06-29 131749](https://github.com/21wh1a1236/Freelancer-Application/assets/119932516/84efd8a3-e6ed-4e89-a3be-6e115a784173)
 
 ![Screenshot 2024-06-29 132610](https://github.com/21wh1a1236/Freelancer-Application/assets/119932516/8cc0cf0e-0487-4039-ba58-fdf687024d1c)
 
