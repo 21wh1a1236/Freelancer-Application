@@ -5,6 +5,9 @@ A Freelancing  Platform
 
 Welcome to Thrive, a freelancer application where freelancers, clients, and admins interact to manage projects effectively.
 
+DEMO LINK
+
+https://drive.google.com/file/d/1Y8OIaSGx2PLR0Br09UJ1ngo0kyFdKpRT/view
 
 Features
 
